@@ -1,5 +1,5 @@
 # Projeto_HTML
-Repositório criado para alocar a resolução da atividade 2 de html. Descrição da atividade:
+Repositório criado para alocar a resolução da atividade 3 de html. Descrição da atividade:
 
 A cidade do Recife é uma das mais famosas do Nordeste, ela possui diversos pontos turísticos e um deles é o Marco Zero. Sabendo disso, crie uma página HTML, falando sobre esse ponto turístico de acordo com os seguintes pré-requisitos: 
 
